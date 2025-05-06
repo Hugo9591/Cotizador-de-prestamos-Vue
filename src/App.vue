@@ -140,7 +140,7 @@
         <p class='text-xl text-gray-500 text-center font-bold'> Mensuales: {{ formatearDinero(pagoMensual) }}</p>
     </div>
     
-    <p v-else class="text-center">Añade una cantidad </p>
+    <p v-else class="text-xl text-gray-400 text-center font-bold pt-6">Añade una cantidad </p>
   </div>
 
   
